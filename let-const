@@ -1,0 +1,7 @@
+const PI = 3.14;
+PI = 42; 
+
+1. The difference between var and let is that you can redeclare var and you cannot redeclare let.
+2. The diference between var and const is that you can change the value of a var meanwhile the value of a const can never be changed once delcared.
+3. The difference between let and const is that you can change the value of let and you can't with var.
+4. Hoisting is the behavior of how variable and function declarations are processed during the compilation phase before the code is executed.
